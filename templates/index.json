@@ -112,12 +112,85 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "ea6d863a-0410-4e08-815d-92290ed3d2cd": {
+      "type": "multirow",
+      "blocks": {
+        "template--20013474545945__ea6d863a-0410-4e08-815d-92290ed3d2cd-row-1": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--20013474545945__ea6d863a-0410-4e08-815d-92290ed3d2cd-row-2": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--20013474545945__ea6d863a-0410-4e08-815d-92290ed3d2cd-row-3": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20013474545945__ea6d863a-0410-4e08-815d-92290ed3d2cd-row-1",
+        "template--20013474545945__ea6d863a-0410-4e08-815d-92290ed3d2cd-row-2",
+        "template--20013474545945__ea6d863a-0410-4e08-815d-92290ed3d2cd-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "492a239b-842b-4f89-95fd-3a56c5b9d46f": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".container {max-width: 800px; margin: 0 auto; padding: 0 5%;}",
+        ".row {display: flex; flex-direction: row; justify-content: space-between;}",
+        ".column {width: 50%; padding: 1rem;}",
+        ".row .am-center {text-align: center; margin: 5% auto;}",
+        "@media screen and (max-width: 600px) {.row {flex-direction: column; } .column {width: 100%; padding: 0 5%; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<section class=\"amenities\">\n  <div class=\"container\">\n    <h1>Amenities<\/h1>\n    <div class=\"row\">\n      <div class=\"column\">\n        <div class=\"amenity\">\n          <i class=\"fas fa-wind\"><\/i>\n          Window Air-condition Rooms\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-mountain\"><\/i>\n          Overlooking View\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-swimming-pool\"><\/i>\n          Swimming Pool\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-smoking-ban\"><\/i>\n          Smoke-free Area\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-tv\"><\/i>\n          TV Area\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-car-side\"><\/i>\n          Car Parking\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-wifi\"><\/i>\n          200Mbps Wifi\n        <\/div>\n      <\/div>\n      <div class=\"column\">\n        <div class=\"amenity\">\n          <i class=\"fas fa-bed\"><\/i>\n          Bed with Comforters\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-video\"><\/i>\n          Security Cameras\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-door-closed\"><\/i>\n          Private Entrance\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-hand-sparkles\"><\/i>\n          Cleaning Services\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-utensils\"><\/i>\n          Cooking Area\n        <\/div>\n        <div class=\"amenity\">\n          <i class=\"fas fa-medkit\"><\/i>\n          First-aid Kits\n        <\/div>\n        <div class=\"amenity\">\n  <i class=\"fas fa-fire-extinguisher\"><\/i>\n          Fire Extinguisher\n        <\/div>\n      <\/div>\n    <\/div>\n<div class=\"row\">\n    <a href=\"#\" class=\"am-center h4\">VIEW ALL<\/a>\n<\/div>\n  <\/div>\n<\/section",
+        "color_scheme": "accent-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_collection",
     "1602d954-7877-4a75-8598-ee50f24b9eb4",
-    "afd8f948-bca9-4560-a0b2-c57da3893d3b"
+    "afd8f948-bca9-4560-a0b2-c57da3893d3b",
+    "ea6d863a-0410-4e08-815d-92290ed3d2cd",
+    "492a239b-842b-4f89-95fd-3a56c5b9d46f"
   ]
 }
