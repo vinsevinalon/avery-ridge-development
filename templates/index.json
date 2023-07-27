@@ -41,6 +41,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
@@ -66,10 +67,57 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "1602d954-7877-4a75-8598-ee50f24b9eb4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20013474545945__1602d954-7877-4a75-8598-ee50f24b9eb4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--20013474545945__1602d954-7877-4a75-8598-ee50f24b9eb4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20013474545945__1602d954-7877-4a75-8598-ee50f24b9eb4-heading-1",
+        "template--20013474545945__1602d954-7877-4a75-8598-ee50f24b9eb4-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "afd8f948-bca9-4560-a0b2-c57da3893d3b": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Proj_AV_15s_0703.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "1602d954-7877-4a75-8598-ee50f24b9eb4",
+    "afd8f948-bca9-4560-a0b2-c57da3893d3b"
   ]
 }
