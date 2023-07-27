@@ -3335,3 +3335,5 @@ details-disclosure > details {
   padding: 0 calc(var(--inputs-border-width) + 3rem) 0 2rem !important;
   border-color: #7d7d7d !important;
 }
+
+.header__icon--search { display: none; }
