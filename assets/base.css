@@ -1695,6 +1695,7 @@ details[open] > .share-button__fallback {
   padding: 0 calc(var(--inputs-border-width) + 3rem) 0 2rem;
   margin: var(--inputs-border-width);
   min-height: calc(var(--inputs-border-width) * 2);
+  font-size: 16px;
 }
 
 /* Field */
@@ -3322,4 +3323,15 @@ details-disclosure > details {
     --easter-egg: none;
     --sparkle: url('./sparkle.gif');
   }
+}
+
+
+.izyDate {
+  box-shadow: none !important;
+  webkit-box-shadow: none !important;
+  border: solid 1px !important;
+  border-radius: 0px !important;
+  font-size: 1.2rem !important;
+  padding: 0 calc(var(--inputs-border-width) + 3rem) 0 2rem !important;
+  border-color: #7d7d7d !important;
 }
