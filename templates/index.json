@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "Welcome to Avery Ridge Resort",
-            "heading_size": "h2"
+            "heading_size": "h0"
           }
         },
         "button": {
@@ -30,9 +30,9 @@
         "image": "shopify:\/\/shop_images\/Image_1.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "inverse",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
