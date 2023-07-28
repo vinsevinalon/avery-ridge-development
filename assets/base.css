@@ -3337,4 +3337,14 @@ details-disclosure > details {
   border-color: #7d7d7d !important;
 }
 
-.header__icon--search { display: none; }
+.header__icon--search { 
+  display: none; 
+}
+
+.izyrent_qty {
+  display: none;
+}
+
+.izyrent_remove {
+  display: none;
+}
