@@ -135,8 +135,8 @@
             "caption": "",
             "heading": "<strong>Amenities<\/strong>",
             "text": "<p>Our resort offers a variety of amenities to keep you entertained and relaxed, including a swimming pool, a stunning view, a natural hot-spring.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Book now",
+            "button_link": "shopify:\/\/collections\/all"
           }
         },
         "template--20013474545945__ea6d863a-0410-4e08-815d-92290ed3d2cd-row-3": {
