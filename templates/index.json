@@ -120,19 +120,21 @@
         "template--20013474545945__ea6d863a-0410-4e08-815d-92290ed3d2cd-row-1": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/beazy-aX1TTOuq83M-unsplash.jpg",
+            "caption": "",
+            "heading": "Luxurious accommodations",
+            "text": "<p>Our resort features spacious and luxurious accommodations, including spacious rooms, plush bedding, and stunning views.<\/p>",
+            "button_label": "Book now",
+            "button_link": "shopify:\/\/products\/hotel-package-1"
           }
         },
         "template--20013474545945__ea6d863a-0410-4e08-815d-92290ed3d2cd-row-2": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/eddi-aguirre-ZAVHbpOn4Jk-unsplash.jpg",
+            "caption": "",
+            "heading": "<strong>Amenities<\/strong>",
+            "text": "<p>Our resort offers a variety of amenities to keep you entertained and relaxed, including a swimming pool, a stunning view, a natural hot-spring.<\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -140,6 +142,7 @@
         "template--20013474545945__ea6d863a-0410-4e08-815d-92290ed3d2cd-row-3": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/nik-lanus-YMOHw3F1Hdk-unsplash.jpg",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
