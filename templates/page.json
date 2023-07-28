@@ -45,11 +45,66 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "83ea5eba-f573-413e-86ea-cbf5408f9a8e": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beazy-aX1TTOuq83M-unsplash.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "d83f48d3-754f-4e81-b65e-ad19344a52dc": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "92525fc6-6116-458d-aac1-a074ef21bae8": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--20013475037465__be87356a-723e-4206-bc05-55d0a15ec746-slide-1",
-        "template--20013475037465__be87356a-723e-4206-bc05-55d0a15ec746-slide-2"
+        "template--20013475037465__be87356a-723e-4206-bc05-55d0a15ec746-slide-2",
+        "83ea5eba-f573-413e-86ea-cbf5408f9a8e",
+        "d83f48d3-754f-4e81-b65e-ad19344a52dc",
+        "92525fc6-6116-458d-aac1-a074ef21bae8"
       ],
       "settings": {
         "layout": "full_bleed",
