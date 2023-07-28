@@ -4,6 +4,7 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "disabled": true,
       "blocks": {
         "7b210658-c486-4a39-84e2-5c1bfac2ce75": {
           "type": "link_list",
