@@ -3342,7 +3342,7 @@ details-disclosure > details {
 }
 
 .izyrent_qty {
-  display: none;
+  display: none !important;
 }
 
 .izyremove {
