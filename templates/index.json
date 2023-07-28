@@ -143,9 +143,9 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/nik-lanus-YMOHw3F1Hdk-unsplash.jpg",
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "caption": "",
+            "heading": "Relaxation & Bonding",
+            "text": "<p>Relax and have fun at our resort. Ideal for simple or big celebrations with various amenities included that your friends, family, and colleagues will absolutely love! All at a very reasonable rate! <\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
