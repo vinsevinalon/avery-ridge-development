@@ -13,6 +13,7 @@
         "template--20013475037465__be87356a-723e-4206-bc05-55d0a15ec746-slide-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/nik-lanus-YMOHw3F1Hdk-unsplash.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -30,14 +31,15 @@
         "template--20013475037465__be87356a-723e-4206-bc05-55d0a15ec746-slide-2": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/eddi-aguirre-ZAVHbpOn4Jk-unsplash.jpg",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",
