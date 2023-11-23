@@ -27,8 +27,8 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/346457553_978567383157714_2077756301596302530_n_7f1611f7-0954-4790-a0fe-dc31bd4c8a52.jpg",
-        "image_overlay_opacity": 50,
+        "image": "shopify:\/\/shop_images\/averyridge-hero.png",
+        "image_overlay_opacity": 10,
         "image_height": "large",
         "desktop_content_position": "middle-left",
         "show_text_box": false,
