@@ -45,11 +45,30 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "e67a3ac9-2ef3-4da9-9b15-0c259d095820": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chess.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "fe44807d-758f-468e-86f6-02754922440c",
-        "b8a49c49-6b36-4833-b491-bbeb5db1debc"
+        "b8a49c49-6b36-4833-b491-bbeb5db1debc",
+        "e67a3ac9-2ef3-4da9-9b15-0c259d095820"
       ],
       "settings": {
         "layout": "full_bleed",
