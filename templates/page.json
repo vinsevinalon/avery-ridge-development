@@ -10,46 +10,10 @@
     "807289f2-f9d3-435b-9bd7-64b8da78ac12": {
       "type": "slideshow",
       "blocks": {
-        "template--20013475037465__807289f2-f9d3-435b-9bd7-64b8da78ac12-slide-1": {
+        "fe44807d-758f-468e-86f6-02754922440c": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF6792_Large_7381d766-899c-4b03-990e-fbddabf3578d.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--20013475037465__807289f2-f9d3-435b-9bd7-64b8da78ac12-slide-2": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF7184_Large_b7125fc6-3752-4019-9861-d8d1cc0e8374.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "81aecf70-d769-43be-898e-6eab7082d628": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF7108_Large_6e598e34-1750-44b3-a846-c228b41892b8.jpg",
+            "image": "shopify:\/\/shop_images\/Adult_pool_with_fountain.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -64,36 +28,17 @@
             "text_alignment_mobile": "center"
           }
         },
-        "39b75be1-1fa8-4be5-96f5-4fb8191e25e1": {
+        "b8a49c49-6b36-4833-b491-bbeb5db1debc": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF6817_Large_eb21bd3b-b44f-4810-a706-266d2c8a28ca.jpg",
-            "heading": "",
+            "heading": "Image slide",
             "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "12cdc85f-b88f-4675-8671-e6cf31030f56": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSCF6871_Large_14a4b9c0-1325-419c-9224-065169c33111.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
+            "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
@@ -102,11 +47,8 @@
         }
       },
       "block_order": [
-        "template--20013475037465__807289f2-f9d3-435b-9bd7-64b8da78ac12-slide-1",
-        "template--20013475037465__807289f2-f9d3-435b-9bd7-64b8da78ac12-slide-2",
-        "81aecf70-d769-43be-898e-6eab7082d628",
-        "39b75be1-1fa8-4be5-96f5-4fb8191e25e1",
-        "12cdc85f-b88f-4675-8671-e6cf31030f56"
+        "fe44807d-758f-468e-86f6-02754922440c",
+        "b8a49c49-6b36-4833-b491-bbeb5db1debc"
       ],
       "settings": {
         "layout": "full_bleed",
